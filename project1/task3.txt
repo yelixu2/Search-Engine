@@ -1,0 +1,10 @@
+{ "query": “Beijing”, "description": "all pages related to the city-Beijing“, "pages": ["https://simple.wikipedia.org/wiki/Beijing”]}
+{ "query": “University of Illinois at Urbana-Champaign”, "description": “the page to introduce UIUC”, "pages": ["https://simple.wikipedia.org/wiki/University_of_Illinois_at_Urbana-Champaign”]}
+{ "query": “UCLA”, "description": "all pages related to the UCLA“, "pages": ["https://simple.wikipedia.org/wiki/University_of_California,_Los_Angeles”]}
+{ "query": “MIT”, "description": “all pages related to the MIT”, "pages": ["https://simple.wikipedia.org/wiki/MIT_License”]}
+{ "query": “Harvard”, "description": “all pages related to the Harvard University”, "pages": ["https://simple.wikipedia.org/wiki/John_F._Kennedy_School_of_Government”]}
+{ "query": “Chicago river”, "description": “all pages related to the Chicago river”, "pages": ["https://simple.wikipedia.org/wiki/Chicago_River”]}
+{ "query": “Shanghai Knights”, "description": “all pages related to the Shanghai Knights”, "pages": ["https://simple.wikipedia.org/wiki/Shanghai_Knights”]}
+{ "query": “Kobe Bryant”, "description": “all pages related to the Kobe Bryant”, "pages": ["https://simple.wikipedia.org/wiki/Kobe_Bryant”]}
+{ "query": “Roger Federer”, "description": “all pages related to the Roger Federer”, "pages": ["https://simple.wikipedia.org/wiki/Roger_Federer”]}
+{ "query": “amazon”, "description": “all pages related to amazon”, "pages": ["https://simple.wikipedia.org/wiki/Amazon”]}

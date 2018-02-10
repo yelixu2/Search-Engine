@@ -1,0 +1,20 @@
+0: high school science education
+1: college science education
+2: manufacturing industry
+3: cellular biology
+4: optics
+5: data science
+6: genetics
+7: nsf conference
+8: proposed system
+9: mathematics
+10: sociology
+11: computer science
+12: chemistry
+13: mexico history
+14: quantum physics
+15: meteorology
+16: netword system
+17: seismic study
+18: economics
+19: material science

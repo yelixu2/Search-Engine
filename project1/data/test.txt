@@ -1,0 +1,299 @@
+{"index":{"_id":"1"}}
+{"abstract":"April is the 4th month of the year, and comes between March and May. It is one of four months to have 30 days.","title":"April","url":"https:\/\/simple.wikipedia.org\/wiki\/April","sections":["The Month","April in poetry","Events in April","Fixed Events","Moveable Events","Selection of Historical Events","Trivia","References"]}
+
+{"index":{"_id":"2"}}
+{"abstract":"August (Aug.) is the 8th month of the year in the Gregorian calendar, coming between July and September.","title":"August","url":"https:\/\/simple.wikipedia.org\/wiki\/August","sections":["The Month","August observances","Fixed observances and events","Moveable and Monthlong events","Selection of Historical Events","Trivia","References"]}
+
+{"index":{"_id":"3"}}
+{"abstract":"Art is a creative activity by people. These people are called artists.","title":"Art","url":"https:\/\/simple.wikipedia.org\/wiki\/Art","sections":["Types of art","What \"art\" means","History of art","Roles of art","Functions of art","Related pages","References"]}
+
+{"index":{"_id":"4"}}
+{"abstract":"A is the first letter of the English alphabet. The small letter, a, is used as a lower case vowel.","title":"A","url":"https:\/\/simple.wikipedia.org\/wiki\/A","sections":["Where it came from","Using the letter","Use in mathematics","References"]}
+
+{"index":{"_id":"5"}}
+{"abstract":"thumb|240px|This is what the air is made of","title":"Air","url":"https:\/\/simple.wikipedia.org\/wiki\/Air","sections":["Related pages","References"]}
+
+{"index":{"_id":"6"}}
+{"abstract":"Spain is divided in 17 parts called autonomous communities. Autonomous means that each of these autonomous communities has its own Executive Power, its own Legislative Power and its own Judicial Power.","title":"Autonomous communities of Spain","url":"https:\/\/simple.wikipedia.org\/wiki\/Autonomous_communities_of_Spain","sections":"Autonomous communities of Spain"}
+
+{"index":{"_id":"7"}}
+{"abstract":"Alan Mathison Turing OBE FRS (London, 23 June 1912 \u2013 Wilmslow, Cheshire, 7 June 1954) was an English mathematician and computer scientist. He was born in Maida Vale, London.","title":"Alan Turing","url":"https:\/\/simple.wikipedia.org\/wiki\/Alan_Turing","sections":["Young Life and Family","Education","Career","Private life","Death","References","Other websites"]}
+
+{"index":{"_id":"8"}}
+{"abstract":"| death_date   =","title":"Alanis Morissette","url":"https:\/\/simple.wikipedia.org\/wiki\/Alanis_Morissette","sections":["About her life","Jagged Little Pill","Discography","Albums","Selected songs","References","Other websites"]}
+
+{"index":{"_id":"9"}}
+{"abstract":"| latest release version = CC 2017 (21.0.","title":"Adobe Illustrator","url":"https:\/\/simple.wikipedia.org\/wiki\/Adobe_Illustrator","sections":["History","Release history","References"]}
+
+{"index":{"_id":"10"}}
+{"abstract":"Andouille is a type of pork sausage. It is spicy (hot in taste) and smoked.","title":"Andouille","url":"https:\/\/simple.wikipedia.org\/wiki\/Andouille","sections":["Food stubs","Sausage"]}
+
+{"index":{"_id":"11"}}
+{"abstract":"Farming is growing crops or keeping animals by people for food and raw materials. Farming is a part of agriculture.","title":"Farming","url":"https:\/\/simple.wikipedia.org\/wiki\/Farming","sections":["History","Kinds of farming","Agriculture techniques","Food","Problems in agriculture","Crops","Related pages","References"]}
+
+{"index":{"_id":"12"}}
+{"abstract":"Arithmetic is a name for working with numbers. It is a part of mathematics.","title":"Arithmetic","url":"https:\/\/simple.wikipedia.org\/wiki\/Arithmetic","sections":"Examples of arithmetic"}
+
+{"index":{"_id":"13"}}
+{"abstract":"thumb|220px|Addition","title":"Addition","url":"https:\/\/simple.wikipedia.org\/wiki\/Addition","sections":["Arithmetic","Counting examples","Adding","A measurement example","Addition as increase","Example of addition as increase","Addition table","Other websites"]}
+
+{"index":{"_id":"14"}}
+{"abstract":"|name=\"anthem explanation\"|group=\"N\"}}}}","title":"Australia","url":"https:\/\/simple.wikipedia.org\/wiki\/Australia","sections":["Geography","Regions and cities","History","Aboriginal people","Terra Australis","Settlement","Exploration","Self government","The Commonwealth of Australia","Politics","Culture","Sport","Art festivals","Wildlife","References","Other websites"]}
+
+{"index":{"_id":"15"}}
+{"abstract":"American English or United States English is the dialect of English language spoken in the United States of America. It is different in some ways from other types of English, such as British English.","title":"American English","url":"https:\/\/simple.wikipedia.org\/wiki\/American_English","sections":["Spelling in American English","Regional accents"]}
+
+{"index":{"_id":"16"}}
+{"abstract":"Aquaculture is the farming of fish, shrimp, and algae, and other seafood.  Aquaculture supplies fish, such as catfish, salmon, and trout.","title":"Aquaculture","url":"https:\/\/simple.wikipedia.org\/wiki\/Aquaculture","sections":["Agriculture","Food stubs","Water"]}
+
+{"index":{"_id":"17"}}
+{"abstract":"An abbreviation is a shorter way to write a word or phrase. People use abbreviations for words that they write a lot.","title":"Abbreviation","url":"https:\/\/simple.wikipedia.org\/wiki\/Abbreviation","sections":"Other websites"}
+
+{"index":{"_id":"18"}}
+{"abstract":"In many mythologies and religions, an angel is a good spirit. The word angel comes from the Greek word angelos which means \"messenger\".","title":"Angel","url":"https:\/\/simple.wikipedia.org\/wiki\/Angel","sections":["In the Bible","Types","In art","Angelology","References","Other websites"]}
+
+{"index":{"_id":"19"}}
+{"abstract":"Ad hominem is a Latin word for a type of argument. It is a word often used in rhetoric.","title":"Ad hominem","url":"https:\/\/simple.wikipedia.org\/wiki\/Ad_hominem","sections":["What an ad hominem argument looks like","Normal (valid) proof","Ad hominem example","Related pages"]}
+
+{"index":{"_id":"20"}}
+{"abstract":"Native Americans (also called Aboriginal Americans, American Indians, Amerindians, or Indigenous Peoples of America) are the people, and their descendants, who were in North America, Central America, South America, and the Caribbean Islands when Europeans arrived. There are many different tribes of Native American people, with many different languages.","title":"Native American","url":"https:\/\/simple.wikipedia.org\/wiki\/Native_American","sections":"Related pages"}
+
+{"index":{"_id":"21"}}
+{"abstract":"The apple tree (Malus domestica) is a deciduous tree in the rose family best known for its sweet, pomaceous fruit, the apple. It is cultivated worldwide as a fruit tree, and is the most widely grown species in the genus Malus.","title":"Apple","url":"https:\/\/simple.wikipedia.org\/wiki\/Apple","sections":["Botanical information","Wild ancestors","History","In culture","Paganism","Cooking","Apple cultivars","In the United Kingdom","In North America","Varieties of apples","Family","References","Further reading","Other websites"]}
+
+{"index":{"_id":"22"}}
+{"abstract":"An Abrahamic religion is a religion whose followers believe in prophet Abraham and his descendants to hold an important role in human spiritual development. The best known Abrahamic religions are Judaism, Christianity and Islam.","title":"Abrahamic religion","url":"https:\/\/simple.wikipedia.org\/wiki\/Abrahamic_religion","sections":["Abrahamic religions","Religion stubs"]}
+
+{"index":{"_id":"23"}}
+{"abstract":"Algebra is a part of mathematics (often called math in the United States and maths in the United Kingdom ). It uses variables to represent a value that is not yet known.","title":"Algebra","url":"https:\/\/simple.wikipedia.org\/wiki\/Algebra","sections":["History","Examples","Writing algebra","Functions and Graphs","Rules of algebra","Rules","Commutative property of addition","Commutative property of multiplication","Associative property of addition","Associative property of multiplication","Distributive property","Additive identity property","Multiplicative identity property","Additive inverse property","Multiplicative inverse property","Advanced Algebra","Related pages","References","Other websites"]}
+
+{"index":{"_id":"24"}}
+{"abstract":"|-","title":"Atom","url":"https:\/\/simple.wikipedia.org\/wiki\/Atom","sections":["History","Structure and parts","Parts","Nucleus","Electrons","Radioactive decay","References","Other websites"]}
+
+{"index":{"_id":"25"}}
+{"abstract":"Astronomy is a natural science. It is the study of everything outside the atmosphere of Earth.","title":"Astronomy","url":"https:\/\/simple.wikipedia.org\/wiki\/Astronomy","sections":["History of astronomy","Ancient","Renaissance to modern era","Modern era","Discoveries","Bodies","Solar","Galactic","Cosmic","Phenomena","Methods","Instruments","Techniques","Integration","Aperture synthesis","Adaptive optics","Data analysis","Fourier analysis","Fields","Fields by body","Solar astronomy","Planetary astronomy","Galactic astronomy","Fields by electromagnetic spectrum","Radio astronomy","Magnetohydrodynamics (MHD)","Other fields","Gravitational wave astronomy","Related pages","References","Other websites"]}
+
+{"index":{"_id":"26"}}
+{"abstract":"Architecture is the science of the design of structures or buildings such as houses, places of worship, and office buildings.  Architecture is also the profession of an architect.","title":"Architecture","url":"https:\/\/simple.wikipedia.org\/wiki\/Architecture","sections":["History","Related pages","References","Other websites"]}
+
+{"index":{"_id":"27"}}
+{"abstract":"Anatomy is the study of the bodies of living beings. This can be people, animals, or plants.","title":"Anatomy","url":"https:\/\/simple.wikipedia.org\/wiki\/Anatomy","sections":["Body Systems","Related pages"]}
+
+{"index":{"_id":"28"}}
+{"abstract":"An asteroid is a small object in the Solar System that travels around the Sun. It is like a planet but smaller.","title":"Asteroid","url":"https:\/\/simple.wikipedia.org\/wiki\/Asteroid","sections":["Asteroids","Minor planets"]}
+
+{"index":{"_id":"29"}}
+{"abstract":"}}}}}}}}","title":"Afghanistan","url":"https:\/\/simple.wikipedia.org\/wiki\/Afghanistan","sections":["Land and climate","Plants and animals","People and culture","History","Prehistory","Ancient history","Medieval history","Recent history","Government","Provinces","Related pages","References"]}
+
+{"index":{"_id":"30"}}
+{"abstract":"}}Repubilika ya NgolaKimbunduUmbundu)}}}}","title":"Angola","url":"https:\/\/simple.wikipedia.org\/wiki\/Angola","sections":["History","Geography","Climate","Demographics","Provinces","Related pages","References","Other websites"]}
+
+{"index":{"_id":"31"}}
+{"abstract":"|common_name = Argentina","title":"Argentina","url":"https:\/\/simple.wikipedia.org\/wiki\/Argentina","sections":["History","Politics","Administrative divisions","Geography","Other information","Related pages","References","Other websites"]}
+
+{"index":{"_id":"32"}}
+{"abstract":"| common_name                 = Austria","title":"Austria","url":"https:\/\/simple.wikipedia.org\/wiki\/Austria","sections":["Politics","History","Ancient times","The Romans","The Roman cities and their modern names","Shown on the map","Others","Modern times","Geography","Culture","Music and Arts","Food","UNESCO World Heritage Sites in Austria","Gallery","Related pages","References","Other websites"]}
+
+{"index":{"_id":"33"}}
+{"abstract":"Hayastani Hanrapetutyun","title":"Armenia","url":"https:\/\/simple.wikipedia.org\/wiki\/Armenia","sections":["Geography","Provinces","Largest cities","Filmography","Related pages","References","Other websites"]}
+
+{"index":{"_id":"34"}}
+{"abstract":"Archaeology, or archeology, is the study of the past by looking for the remains and artifacts (historical things) left by the people who lived long ago. These remains can include old coins, tools, buildings, and inscriptions.","title":"Archaeology","url":"https:\/\/simple.wikipedia.org\/wiki\/Archaeology","sections":["Fieldwork","Fields of interest","Sites","Related pages","References","Other websites"]}
+
+{"index":{"_id":"35"}}
+{"abstract":"The word application has several uses.","title":"Application","url":"https:\/\/simple.wikipedia.org\/wiki\/Application","sections":"Disambiguation"}
+
+{"index":{"_id":"36"}}
+{"abstract":"| regnum = Animalia","title":"Animal","url":"https:\/\/simple.wikipedia.org\/wiki\/Animal","sections":["Grouping animals","Life styles","Related pages","References"]}
+
+{"index":{"_id":"37"}}
+{"abstract":"Acceleration is a measure of how fast velocity [Acceleration is the change of velocity divide]d by the change of [[time. Acceleration is a vector, and therefore includes both a size and a direction.","title":"Acceleration","url":"https:\/\/simple.wikipedia.org\/wiki\/Acceleration","sections":["Examples","Finding acceleration","Units of measurement","Other words","Newton's second law of motion","Deceleration"]}
+
+{"index":{"_id":"38"}}
+{"abstract":"Black pudding is an English name for blood sausage.  It is food made by cooking down the blood of any mammal (usually pigs or cattle) with meat, fat or filler until it is thick enough to congeal (become firm or solid) when cooled.","title":"Black pudding","url":"https:\/\/simple.wikipedia.org\/wiki\/Black_pudding","sections":["Types of Black pudding","History","Other pages"]}
+
+{"index":{"_id":"39"}}
+{"abstract":"A boot device is used to start a computer.  It is named after a boot which fits on the foot.","title":"Boot device","url":"https:\/\/simple.wikipedia.org\/wiki\/Boot_device","sections":["Origin","Other pages"]}
+
+{"index":{"_id":"40"}}
+{"abstract":"A boot is a type of footwear that protects the foot and ankle. Boots are higher and larger than shoes and sandals.","title":"Boot","url":"https:\/\/simple.wikipedia.org\/wiki\/Boot","sections":["Types of boots","Other websites"]}
+
+{"index":{"_id":"41"}}
+{"abstract":"Bankruptcy is a legal process which happens when a person or an organisation does not have enough money to pay all of its debts.  Legally they are insolvent.","title":"Bankruptcy","url":"https:\/\/simple.wikipedia.org\/wiki\/Bankruptcy","sections":["Insolvency or bankrupcy","Alternatives to bankruptcy","Bankruptcy protection","Debt slavery","United States","Chapter 7","Chapter 11","Chapter 13","Other bankruptcy chapters","Chapter 9","Chapter 12","References"]}
+
+{"index":{"_id":"42"}}
+{"abstract":"Breakfast sausage is a type of fresh pork sausage made from seasoned ground meat mixed with bread crumbs. Breakfast sausage has a blander flavor than many other types of sausage, such as Polish or Italian-style sausages.","title":"Breakfast sausage","url":"https:\/\/simple.wikipedia.org\/wiki\/Breakfast_sausage","sections":["Using breakfast sausages","Types of breakfast sausages"]}
+
+{"index":{"_id":"43"}}
+{"abstract":"thumb|Giraffe browsing","title":"Browser","url":"https:\/\/simple.wikipedia.org\/wiki\/Browser","sections":["Biology stubs","Ecology","Zoology"]}
+
+{"index":{"_id":"44"}}
+{"abstract":"Beekeeping or apiculture is the farming of honeybees.","title":"Beekeeping","url":"https:\/\/simple.wikipedia.org\/wiki\/Beekeeping","sections":["Uses","Types of beekeeping","Threats","References"]}
+
+{"index":{"_id":"45"}}
+{"abstract":"British English is the kind of English language which is used in the United Kingdom and in most countries which previously were in the British Empire.","title":"British English","url":"https:\/\/simple.wikipedia.org\/wiki\/British_English","sections":["Pronunciation in British English","Other languages","Spelling in British English","Vocabulary in British English","Usage in different countries","Other websites"]}
+
+{"index":{"_id":"46"}}
+{"abstract":"The word being means a living person or animal. \"Human being\" means the same as \"person\".","title":"Being","url":"https:\/\/simple.wikipedia.org\/wiki\/Being","sections":["Philosophy","Religion","Religion stubs"]}
+
+{"index":{"_id":"47"}}
+{"abstract":"Beijing (, Běijīng) is the capital of the People's Republic of China. The city used to be known as Peking.","title":"Beijing","url":"https:\/\/simple.wikipedia.org\/wiki\/Beijing","sections":["What This Means","History","Education","References","Other websites"]}
+
+{"index":{"_id":"48"}}
+{"abstract":"A bottle is a container used to carry liquids. Bottles can have many different sizes.","title":"Bottle","url":"https:\/\/simple.wikipedia.org\/wiki\/Bottle","sections":["Basic English 850 words","Containers","Technology stubs"]}
+
+{"index":{"_id":"49"}}
+{"abstract":"The word berry is used for many different kinds of small fruits that have many seeds and can be used as food. Some examples are strawberry, raspberry, blueberry and lingonberry.","title":"Berry","url":"https:\/\/simple.wikipedia.org\/wiki\/Berry","sections":["Basic English 850 words","Berries","Biology stubs"]}
+
+{"index":{"_id":"50"}}
+{"abstract":"Boil might mean:","title":"Boil","url":"https:\/\/simple.wikipedia.org\/wiki\/Boil","sections":["Basic English 850 words","Disambiguation"]}
+
+{"index":{"_id":"51"}}
+{"abstract":"thumb|220px|Some kinds of beards.","title":"Beard","url":"https:\/\/simple.wikipedia.org\/wiki\/Beard","sections":["Biology stubs","Facial hair"]}
+
+{"index":{"_id":"52"}}
+{"abstract":"In light, black is lack of all color.  In painting, however, the black pigment is the combination of all colors.","title":"Black","url":"https:\/\/simple.wikipedia.org\/wiki\/Black","sections":["Origin of black","Black in science","Meaning of black","Related pages"]}
+
+{"index":{"_id":"53"}}
+{"abstract":"| ICD9            =","title":"Bubonic plague","url":"https:\/\/simple.wikipedia.org\/wiki\/Bubonic_plague","sections":["Different kinds of the same disease","Septicemic plague","Pneumonic plague","The abortive form","History","Transmission","Modern history","References"]}
+
+{"index":{"_id":"54"}}
+{"abstract":"Biology is the science that studies life and living things, and their evolution. Living things include animals, plants, fungi (such as mushrooms), and microorganisms such as bacteria and archaea.","title":"Biology","url":"https:\/\/simple.wikipedia.org\/wiki\/Biology","sections":["Branches of biology","References"]}
+
+{"index":{"_id":"55"}}
+{"abstract":"Botany is the study of plants. It is a science.","title":"Botany","url":"https:\/\/simple.wikipedia.org\/wiki\/Botany","sections":["Branches of Botany","Notable botanists"]}
+
+{"index":{"_id":"56"}}
+{"abstract":"| conventional_long_name   = Kingdom of Belgium","title":"Belgium","url":"https:\/\/simple.wikipedia.org\/wiki\/Belgium","sections":["History","Government and politics","Geography","Provinces","Military","Science and technology","Culture","Fine arts","Cuisine","Sports","Other pages","References","Other websites"]}
+
+{"index":{"_id":"57"}}
+{"abstract":"|conventional_long_name = Federative Republic of Brazil","title":"Brazil","url":"https:\/\/simple.wikipedia.org\/wiki\/Brazil","sections":["History","Languages","Geography","People\/culture","Related pages","References","Other websites"]}
+
+{"index":{"_id":"58"}}
+{"abstract":"Chemistry is a branch of  science that deals with chemical elements and compounds, and how these things work together. It is the study of the materials (things) that make up our bodies and everything in the world around us.","title":"Chemistry","url":"https:\/\/simple.wikipedia.org\/wiki\/Chemistry","sections":["History:","Types of chemistry:","Concepts of chemistry:","Basic concepts:","Mole:","Acids and bases:","Usefulness:","Safety:","Related pages:"]}
+
+{"index":{"_id":"59"}}
+{"abstract":"* Chemical compound, a chemical combination of two or more chemical elements","title":"Compound","url":"https:\/\/simple.wikipedia.org\/wiki\/Compound","sections":"Disambiguation"}
+
+{"index":{"_id":"60"}}
+{"abstract":"Computer science is the study of how to manipulate, manage, transform and encode information.","title":"Computer science","url":"https:\/\/simple.wikipedia.org\/wiki\/Computer_science","sections":["Common tasks for a computer scientist","Asking questions","Asking the right question","Answering the question","Parts of computer science","Central math","How an ideal computer works","Computer science at work","What computer science does","Related pages"]}
+
+{"index":{"_id":"61"}}
+{"abstract":"A computer is a machine (mostly electronic) that is able to take information (input), and process it to make new information (output). Calculating machines have existed for much of human history.","title":"Computer","url":"https:\/\/simple.wikipedia.org\/wiki\/Computer","sections":["History of computers","Definition","Automation","Programming","The Computing Era","Analog and Digital Computers","High-scale computers","Kinds of computers","All-in-one PC","Common uses of home computers","Common uses of work computers","Working methods","The Internet","Computers and waste","Main hardware","Largest Computer Companies","References","Other websites"]}
+
+{"index":{"_id":"62"}}
+{"abstract":"Chinese might mean:","title":"Chinese","url":"https:\/\/simple.wikipedia.org\/wiki\/Chinese","sections":"Disambiguation"}
+
+{"index":{"_id":"63"}}
+{"abstract":"A continent is a large area of the land on Earth that is joined together. In general it is agreed there are seven continents in the world: Africa, Antarctica, Asia, Europe, North America, Australasia or Oceania,Either are accepted terms and South America.","title":"Continent","url":"https:\/\/simple.wikipedia.org\/wiki\/Continent","sections":["List of continents","Alternative versions","Australia","North and South America","Eurasia","Afro-Eurasia","Related pages","References"]}
+
+{"index":{"_id":"64"}}
+{"abstract":"thumb|The four classical elements.","title":"Classical element","url":"https:\/\/simple.wikipedia.org\/wiki\/Classical_element","sections":["Ancient Greece","Articles containing Chinese language text","History of science"]}
+
+{"index":{"_id":"65"}}
+{"abstract":"}} |}}","title":"China","url":"https:\/\/simple.wikipedia.org\/wiki\/China","sections":["Origins","History","Ancient (2100 B.C. - 1500 A.D.)","A new age","Culture","Festivals","National symbols","Notes","Footnotes","References","Other websites"]}
+
+{"index":{"_id":"66"}}
+{"abstract":"thumb|220px|Map of Europe showing the different countries","title":"Country","url":"https:\/\/simple.wikipedia.org\/wiki\/Country","sections":["Montevideo Convention","Reference","Other websites"]}
+
+{"index":{"_id":"67"}}
+{"abstract":"Colchester is a town in the northern part of the English county of Essex. It has a population of 104,000 people.","title":"Colchester","url":"https:\/\/simple.wikipedia.org\/wiki\/Colchester","sections":["History","Twin cities"]}
+
+{"index":{"_id":"68"}}
+{"abstract":"Cartography is making maps. It is part of geography.","title":"Cartography","url":"https:\/\/simple.wikipedia.org\/wiki\/Cartography","sections":"References"}
+
+{"index":{"_id":"69"}}
+{"abstract":"A Creator is a person who creates something.","title":"Creator","url":"https:\/\/simple.wikipedia.org\/wiki\/Creator","sections":["All articles with unsourced statements","Articles with unsourced statements from January 2013","Theology"]}
+
+{"index":{"_id":"70"}}
+{"abstract":"A contact network is a group of people who can all quickly get in touch with each other.  It does not guarantee any kind of help or access to knowledge other than that.","title":"Contact network","url":"https:\/\/simple.wikipedia.org\/wiki\/Contact_network","sections":["Relationships","Sociology","Stubs"]}
+
+{"index":{"_id":"71"}}
+{"abstract":"thumb","title":"Chorizo","url":"https:\/\/simple.wikipedia.org\/wiki\/Chorizo","sections":["Food stubs","Sausage"]}
+
+{"index":{"_id":"72"}}
+{"abstract":"Creativity is the ability of a person or group to make something new and useful or valuable, or the process of making something new and useful or valuable. It happens in all areas of life - science, art, literature and music.","title":"Creativity","url":"https:\/\/simple.wikipedia.org\/wiki\/Creativity","sections":["Creativity","Human behavior"]}
+
+{"index":{"_id":"73"}}
+{"abstract":"The Cathar [was a version of Christianity]. They were usually considered [[Gnosticism|Gnostics.","title":"Catharism","url":"https:\/\/simple.wikipedia.org\/wiki\/Catharism","sections":["Principles","Language","Problems","Reactions","Results","The Albigensian Crusade","Methods","Result","Other websites"]}
+
+{"index":{"_id":"74"}}
+{"abstract":"Cosmology is the branch of astronomy that deals with the origin, structure, evolution and space-time relationships of the universe.http:\/\/www.","title":"Cosmology","url":"https:\/\/simple.wikipedia.org\/wiki\/Cosmology","sections":["History","Related pages","References"]}
+
+{"index":{"_id":"75"}}
+{"abstract":"thumb|A church in [[Ethiopia]]","title":"Church","url":"https:\/\/simple.wikipedia.org\/wiki\/Church","sections":["History of church buildings","The parts of a church","Churches through the ages","English churches","Related pages","References","Other websites"]}
+
+{"index":{"_id":"76"}}
+{"abstract":"thumb|250px|The medieval city of [[Sienna with its town square and magnificent town hall. A modern suburb can be seen in the background.","title":"City","url":"https:\/\/simple.wikipedia.org\/wiki\/City","sections":["Definition","Size of cities","World's largest cities","Gallery of cities","References"]}
+
+{"index":{"_id":"77"}}
+{"abstract":"thumb|Cooking food on a stove.","title":"Cooking","url":"https:\/\/simple.wikipedia.org\/wiki\/Cooking","sections":["Cooks","Related pages","Other websites"]}
+
+{"index":{"_id":"78"}}
+{"abstract":"To chat is to talk about ordinary things that are not very important. A person can chat with another person, or to many people.","title":"Chat","url":"https:\/\/simple.wikipedia.org\/wiki\/Chat","sections":"Related pages"}
+
+{"index":{"_id":"79"}}
+{"abstract":"A cup is any kind of container used for holding liquid and drinking. These include:","title":"Cup","url":"https:\/\/simple.wikipedia.org\/wiki\/Cup","sections":["Basic English 850 words","Disambiguation"]}
+
+{"index":{"_id":"80"}}
+{"abstract":"A crime (or misdemeanor or felony) is an act done by a person which is against the laws of a country or region. A person who does this is called a criminal.","title":"Crime","url":"https:\/\/simple.wikipedia.org\/wiki\/Crime","sections":["Levels of crime","References"]}
+
+{"index":{"_id":"81"}}
+{"abstract":"Time Cube is a website created by Gene Ray. On that website, Dr.","title":"Time Cube","url":"https:\/\/simple.wikipedia.org\/wiki\/Time_Cube","sections":"Other websites"}
+
+{"index":{"_id":"82"}}
+{"abstract":"The Census of Marine Life is a ten-year survey of life in the oceans, starting in 2000. Its head is Ron O'Dor of Dalhousie University in Halifax, Nova Scotia, Canada.","title":"Census of Marine Life","url":"https:\/\/simple.wikipedia.org\/wiki\/Census_of_Marine_Life","sections":"Other websites"}
+
+{"index":{"_id":"83"}}
+{"abstract":"Maize (called corn in some countries) is Zea mays, a member of the grass family Poaceae. It is a cereal grain which was first grown by people in ancient Central America.","title":"Maize","url":"https:\/\/simple.wikipedia.org\/wiki\/Maize","sections":["The genus Zea","References"]}
+
+{"index":{"_id":"84"}}
+{"abstract":"Civics is the study of government.  It most often refers to studying government in high school to prepare to be a good citizen.","title":"Civics","url":"https:\/\/simple.wikipedia.org\/wiki\/Civics","sections":["Politics","Politics stubs"]}
+
+{"index":{"_id":"85"}}
+{"abstract":"Calculus is a branch of mathematics which helps us understand changes between values that are related by a function. For example, if you had one formula telling how much money you got every day, calculus would help you understand related formulas like how much money you have in total, and whether you are getting more money or less than you used to.","title":"Calculus","url":"https:\/\/simple.wikipedia.org\/wiki\/Calculus","sections":["History","Differential calculus","Main idea of calculus","Demonstration of main idea of calculus","How to use integral calculus to find areas","Other uses of calculus"]}
+
+{"index":{"_id":"86"}}
+{"abstract":"A coin is normally a round piece of metal that is used as currency, or money. Coins have been made for about 2600 years; the first place to make coins was Lydia (modern Turkey).","title":"Coin","url":"https:\/\/simple.wikipedia.org\/wiki\/Coin","sections":["Appearance","Other views","Collecting","References"]}
+
+{"index":{"_id":"87"}}
+{"abstract":"A conceptual metaphor or cognitive metaphor is a metaphor which refers to one domain (group of ideas) in terms of another. For example, treating quantity in terms of direction:","title":"Conceptual metaphor","url":"https:\/\/simple.wikipedia.org\/wiki\/Conceptual_metaphor","sections":["Political metaphors","Notes"]}
+
+{"index":{"_id":"88"}}
+{"abstract":"The crust of a piece of bread is the edge where it is harder and darker.","title":"Crust","url":"https:\/\/simple.wikipedia.org\/wiki\/Crust","sections":"Disambiguation"}
+
+{"index":{"_id":"89"}}
+{"abstract":"Comedy (from Greek: Kωμωδία) may be used in different ways:","title":"Comedy","url":"https:\/\/simple.wikipedia.org\/wiki\/Comedy","sections":["History","Satire","Satyr plays","Humour","Types","Slapstick","Comedy movies","Parody\/spoof","Different types of comedy movies","Comedy television shows","Related pages"]}
+
+{"index":{"_id":"90"}}
+{"abstract":"A comet is a ball of mostly ice that moves around in outer space. Comets are often described as \"dirty snowballs\".","title":"Comet","url":"https:\/\/simple.wikipedia.org\/wiki\/Comet","sections":["Famous comets","History of comets","Related pages","Other websites"]}
+
+{"index":{"_id":"91"}}
+{"abstract":"Cytology is the study of the cells, especially their appearance and structure. Cells are the small parts that make up all living things, and their effects on each other and their environment.","title":"Cytology","url":"https:\/\/simple.wikipedia.org\/wiki\/Cytology","sections":"Other pages"}
+
+{"index":{"_id":"92"}}
+{"abstract":"A Christian  is a person who believes in Christianity, a monotheistic religion. Christianity is mostly about the life and teachings of Jesus Christ, in the New Testament and interpreted of prophesied in the Hebrew Bible\/Old Testament.","title":"Christian","url":"https:\/\/simple.wikipedia.org\/wiki\/Christian","sections":["Related pages","References"]}
+
+{"index":{"_id":"93"}}
+{"abstract":"Cheese is milk made into a solid form that is edible. There are many types of cheese, such as cheddar, Swiss, and provolone.","title":"Cheese","url":"https:\/\/simple.wikipedia.org\/wiki\/Cheese","sections":["The origin of cheese","How cheese is made","Classifications of cheese","References"]}
+
+{"index":{"_id":"94"}}
+{"abstract":"The constitution of a country (or a state) is a special type of law document that tells how its government is supposed to work. It tells how the country's leaders are to be chosen and how long they get to stay in office, how new laws are made and old laws are to be changed or removed based on law, what kind of people are allowed to vote and what other rights they are guaranteed, and how the constitution can be changed.","title":"Constitution","url":"https:\/\/simple.wikipedia.org\/wiki\/Constitution","sections":["Related pages","References"]}
+
+{"index":{"_id":"95"}}
+{"abstract":"A circle is a round, regular, two-dimensional shape, shaped like a 2D sphere","title":"Circle","url":"https:\/\/simple.wikipedia.org\/wiki\/Circle","sections":["Calculating π","Other websites"]}
+
+{"index":{"_id":"96"}}
+{"abstract":"Capitalise (British spelling) or capitalize (North American spelling) means to make one or more letters upper case.  The first letter of a sentence is capitalised in many languages, as are the first letters of proper nouns such as names of people and places.","title":"Capitalization","url":"https:\/\/simple.wikipedia.org\/wiki\/Capitalization","sections":["Grammar","Stubs"]}
+
+{"index":{"_id":"97"}}
+{"abstract":"| conventional_long_name=Republic of Cuba","title":"Cuba","url":"https:\/\/simple.wikipedia.org\/wiki\/Cuba","sections":["Culture","History","Early history","Cuban Revolution","Demographics","Health and education","Geography","Related pages","References"]}
+
+{"index":{"_id":"98"}}
+{"abstract":"A cube is a block with all right angles and whose height, width and depth are all the same.","title":"Cube","url":"https:\/\/simple.wikipedia.org\/wiki\/Cube","sections":["Relative 2-dimensional shape","Volume","Cubic shaped things"]}
+
+{"index":{"_id":"99"}}
+{"abstract":"Cost of living is the amount of money it costs just to live in a certain place.  It includes food, housing, etc.","title":"Cost of living","url":"https:\/\/simple.wikipedia.org\/wiki\/Cost_of_living","sections":["All articles lacking sources","Articles lacking sources from August 2015","Economics","Stubs"]}
+
+{"index":{"_id":"100"}}
+{"abstract":"December (Dec.) is the 12th and last month of the year in the Gregorian calendar, with 31 days, coming between November (of the same year) and January (of the following year).","title":"December","url":"https:\/\/simple.wikipedia.org\/wiki\/December","sections":["The Month","Holidays and Festivals","Fixed dates","Moveable and Non-Single Day Events","Historical Events","Trivia"]}
